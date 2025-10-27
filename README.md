@@ -1,6 +1,6 @@
 # Village Portal Website
 
-Selamat datang di proyek **Village Portal Website**! 🎉 Proyek ini dibangun menggunakan CodeIgniter 4, proyek ini merupakan salah satu program kerja KKN UTM 2024 di desa Banyu Urip Kabupaten Lombok Barat. Aplikasi ini memanfaatkan template dashboard **Mazer** dan **Myth-Auth** untuk fitur login dan register.
+Selamat datang di proyek **Village Portal Website**! 🎉 Proyek ini dibangun menggunakan CodeIgniter 4. Aplikasi ini memanfaatkan template dashboard **Mazer** dan **Myth-Auth** untuk fitur login dan register.
 
 ## 🖥️ Screenshot
 
