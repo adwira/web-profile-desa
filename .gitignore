@@ -129,3 +129,11 @@ nb-configuration.xml
 /phpunit*.xml
 /.phpunit.*.cache
 
+/public/img/staff/*
+!/public/img/staff/.gitkeep
+
+/public/img/logo/*
+!/public/img/logo/.gitkeep
+
+/public/img/slider/*
+!/public/img/slider/.gitkeep
