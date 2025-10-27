@@ -30,7 +30,7 @@ Selamat datang di proyek **Village Portal Website**! 🎉 Proyek ini dibangun me
 
 1. **Clone Repository**:
     ```bash
-    git clone https://github.com/alfian742/village-website.git
+    git clone https://github.com/adwira/web-profile-desa.git
     ```
 
 2. **Masuk ke Direktori Proyek**:
